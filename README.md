@@ -30,7 +30,7 @@ Registrar colaboradores
 ## Instalación Rápida
 bash
 ## 1. Clonar
-git clone https://github.com/rrhh.git
+git clone https://github.com/heinssel5/rrhh.git
 cd rrhh-sistema
 
 ## 2. Instalar dependencias
