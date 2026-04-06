@@ -21,12 +21,12 @@ Registrar colaboradores
 - **PHPUnit	10+**
 - 
 ## Casos de Prueba
-- **CP	Módulo	Pruebas**
+### CP	Módulo	Pruebas
 - **CP-001	Colaboradores	Crear, listar, actualizar, eliminar**
 - **CP-002	Contratos	Crear, validar fechas/salario, actualizar**
 - **CP-003	Prórrogas	Tiempo, valor, rechazar si está terminado**
 - **CP-004	Terminaciones	Cambiar estado, registrar motivo, evitar duplicados**
-- 
+
 ## Instalación Rápida
 bash
 ## 1. Clonar
@@ -106,11 +106,6 @@ POST	/api/extensions	Crear prórroga
 POST	/api/terminations	Terminar contrato
 Comandos Útiles
 bash
-# Migraciones
-php artisan migrate
-
-# Crear prueba
-php artisan make:test NombreTest
 
 # Autor
 - **Heinsel Molina - Desarrollo backend con Laravel y TDD**
