@@ -31,7 +31,7 @@ Registrar colaboradores
 bash
 ## 1. Clonar
 git clone https://github.com/heinsel5/rrhh
-cd rrhh-sistema
+cd rrhh
 
 ## 2. Instalar dependencias
 composer install
